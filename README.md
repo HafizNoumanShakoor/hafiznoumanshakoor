@@ -145,13 +145,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hafiznoumanshakoor/hafiznoumanshakoor/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
 
 <p align="center">
   ⭐ If you like my work, feel free to explore my repositories and connect with me.
