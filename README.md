@@ -32,7 +32,7 @@
 
 - 💼 Working as **Technical Project Manager / .NET Developer** at **Workflow Solutions Private Limited**
 - 🧠 **3+ years** of professional experience in **.NET software development**
-- ⚙️ Specialized in **C#**, **ASP.NET Core**, **Web API**, **SQL Server**, and **Entity Framework Core**
+- ⚙️ Specialized in **C#**, **ASP.NET Core**, **Web API**, **SQL Server**, and **EF Core**
 - 🏗️ Passionate about building **scalable, secure, and high-performance applications**
 - 🚖 Experienced in delivering **real-time taxi booking & tracking systems**
 - 🔐 Strong focus on **clean architecture, secure coding, performance optimization, and business value**
